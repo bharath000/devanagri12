@@ -31,3 +31,5 @@ Down-sampling for every 2 every layers, activation LeakyReLu, and a dense layer 
 
 This model was trained using AdamMax optimizer with exponentially decreasing learning rate (alpha) over different epochs. Accuracy score was used as performance metric. Cross-Entropy was used as loss function.
 
+Gti-hub: https://github.com/bharath000/devanagri12/blob/master/devnagari%20(1).ipynb
+
